@@ -1,0 +1,16 @@
+C:\Users\Paulo\source\repos\Logica\Logica\bin\Debug\net5.0\Logica.exe
+C:\Users\Paulo\source\repos\Logica\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\Paulo\source\repos\Logica\Logica\bin\Debug\net5.0\Logica.runtimeconfig.json
+C:\Users\Paulo\source\repos\Logica\Logica\bin\Debug\net5.0\Logica.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\Logica\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\Paulo\source\repos\Logica\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\Paulo\source\repos\Logica\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\Paulo\source\repos\Logica\Logica\obj\Debug\net5.0\Logica.genruntimeconfig.cache
