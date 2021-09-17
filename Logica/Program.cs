@@ -12,7 +12,7 @@ namespace Logica
             int  Maiornumero = 0;
             int MenorNumero = 0;
             int Soma = 0;
-            double MediaNumeros = 0;
+            decimal MediaNumeros = 0;
             string mNumero;
 
             for ( int i = 1;  i < Numeros.Length; i++)
@@ -28,14 +28,20 @@ namespace Logica
                     MenorNumero = i;
                 }
 
-                 Soma = Soma + Numeros[i];
+ 
+            }
 
-                 MediaNumeros = Soma / Numeros.Length; 
 
-               
+            for( int i = 0; i < Numeros.Length; i++)
+            {
 
+
+                Soma = Soma + Numeros[i];
+
+                MediaNumeros = Soma / Numeros.Length;
 
             }
+
 
             //Outra forma de encontrar o maior e o menor numero de uma array
             Numeros.Max();
