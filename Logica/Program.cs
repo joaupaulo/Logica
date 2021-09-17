@@ -11,9 +11,9 @@ namespace Logica
             int[] Numeros = { 6, 9, 15, -2, 92, 11 };
             int  Maiornumero = 0;
             int MenorNumero = 0;
-            int Soma = 0;
-            decimal MediaNumeros = 0;
-            string mNumero;
+            double Soma = 0;
+            double MediaNumeros = 0;
+      
 
             for ( int i = 1;  i < Numeros.Length; i++)
             {
@@ -49,7 +49,7 @@ namespace Logica
             //Outra forma de encontrar a media da array
             var Media = (Numeros.Sum() / Numeros.Length);
 
-            mNumero = String.Format("{0:f}", MediaNumeros);
+           
 
             Console.WriteLine("Construa um algoritmo que seja capaz de ler uma sequência de números inteiros e responder às seguintes perguntas:");
             Console.WriteLine("");
@@ -71,7 +71,7 @@ namespace Logica
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("D) Qual a média de todos os números?");
-            Console.WriteLine(mNumero);
+            Console.WriteLine(MediaNumeros);
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("");
