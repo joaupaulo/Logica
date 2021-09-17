@@ -71,7 +71,7 @@ namespace Logica
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("D) Qual a média de todos os números?");
-            Console.WriteLine(MediaNumeros);
+            Console.WriteLine(Math.Round(MediaNumeros,2));
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("");
